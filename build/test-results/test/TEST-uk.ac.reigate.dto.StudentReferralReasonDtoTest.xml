@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.StudentReferralReasonDtoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:36" hostname="CCD102873" time="0.007">
+  <properties/>
+  <testcase name="testConstructor_StudentReferralReason" classname="uk.ac.reigate.dto.StudentReferralReasonDtoTest" time="0.004"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.StudentReferralReasonDtoTest" time="0.001"/>
+  <testcase name="testMapFromStudentReferralReasonEntity" classname="uk.ac.reigate.dto.StudentReferralReasonDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.StudentReferralReasonDtoTest" time="0.001"/>
+  <testcase name="testMapFromStudentReferralReasonsEntities" classname="uk.ac.reigate.dto.StudentReferralReasonDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

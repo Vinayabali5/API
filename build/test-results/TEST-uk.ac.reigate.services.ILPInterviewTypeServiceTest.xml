@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.ILPInterviewTypeServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:11:43" hostname="CCD102873" time="0.013">
+  <properties/>
+  <testcase name="testFindILPInterviewTypes" classname="uk.ac.reigate.services.ILPInterviewTypeServiceTest" time="0.007"/>
+  <testcase name="testSaveILPInterviewType" classname="uk.ac.reigate.services.ILPInterviewTypeServiceTest" time="0.001"/>
+  <testcase name="testSaveILPInterviewTypeByFields_WithNullId" classname="uk.ac.reigate.services.ILPInterviewTypeServiceTest" time="0.001"/>
+  <testcase name="testSaveNewILPInterviewType" classname="uk.ac.reigate.services.ILPInterviewTypeServiceTest" time="0.0"/>
+  <testcase name="testFindILPInterviewType" classname="uk.ac.reigate.services.ILPInterviewTypeServiceTest" time="0.001"/>
+  <testcase name="testSaveILPInterviewTypes" classname="uk.ac.reigate.services.ILPInterviewTypeServiceTest" time="0.002"/>
+  <testcase name="testSaveILPInterviewTypeByFields_WithId" classname="uk.ac.reigate.services.ILPInterviewTypeServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

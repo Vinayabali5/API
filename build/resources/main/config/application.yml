@@ -1,0 +1,10 @@
+app:
+  name: cis-api
+
+security:
+  basic:
+    enabled: true
+    realm: CID
+  enable-csrf: true
+  sessions: stateless
+

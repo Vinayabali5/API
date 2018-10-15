@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.InitialAssessmentLevelDtoTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:35" hostname="CCD102873" time="0.009">
+  <properties/>
+  <testcase name="testMapFromInitialAssessmentLevelEntity" classname="uk.ac.reigate.dto.InitialAssessmentLevelDtoTest" time="0.005"/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.InitialAssessmentLevelDtoTest" time="0.0"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.InitialAssessmentLevelDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.InitialAssessmentLevelDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.InitialAssessmentLevelDtoTest" time="0.0"/>
+  <testcase name="testMapFromInitialAssessmentLevelsEntities" classname="uk.ac.reigate.dto.InitialAssessmentLevelDtoTest" time="0.001"/>
+  <testcase name="testConstructor_InitialAssessmentLevel" classname="uk.ac.reigate.dto.InitialAssessmentLevelDtoTest" time="0.001"/>
+  <testcase name="testMapToInitialAssessmentLevelEntity" classname="uk.ac.reigate.dto.InitialAssessmentLevelDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

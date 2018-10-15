@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.AttendanceCodeServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:11:43" hostname="CCD102873" time="0.017">
+  <properties/>
+  <testcase name="testFindAttendanceCodes" classname="uk.ac.reigate.services.AttendanceCodeServiceTest" time="0.01"/>
+  <testcase name="testSaveAttendanceCodeByFields_WithNullId" classname="uk.ac.reigate.services.AttendanceCodeServiceTest" time="0.001"/>
+  <testcase name="testSaveAttendanceCodeByFields_WithId" classname="uk.ac.reigate.services.AttendanceCodeServiceTest" time="0.003"/>
+  <testcase name="testSaveAttendanceCodes" classname="uk.ac.reigate.services.AttendanceCodeServiceTest" time="0.002"/>
+  <testcase name="testFindAttendanceCode" classname="uk.ac.reigate.services.AttendanceCodeServiceTest" time="0.0"/>
+  <testcase name="testSaveNewAttendanceCode" classname="uk.ac.reigate.services.AttendanceCodeServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

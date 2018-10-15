@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.PunctualityMonitoringServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:11:44" hostname="CCD102873" time="0.016">
+  <properties/>
+  <testcase name="testSavePunctualityMonitoring" classname="uk.ac.reigate.services.PunctualityMonitoringServiceTest" time="0.008"/>
+  <testcase name="testFindPunctualityMonitoring" classname="uk.ac.reigate.services.PunctualityMonitoringServiceTest" time="0.001"/>
+  <testcase name="testFindPunctualityMonitorings" classname="uk.ac.reigate.services.PunctualityMonitoringServiceTest" time="0.0"/>
+  <testcase name="testSaveNewPunctualityMonitoring" classname="uk.ac.reigate.services.PunctualityMonitoringServiceTest" time="0.001"/>
+  <testcase name="testSavePunctualityMonitorings" classname="uk.ac.reigate.services.PunctualityMonitoringServiceTest" time="0.003"/>
+  <testcase name="testSavePunctualityMonitoringByFields_WithNullId" classname="uk.ac.reigate.services.PunctualityMonitoringServiceTest" time="0.001"/>
+  <testcase name="testSavePunctualityMonitoringByFields_WithId" classname="uk.ac.reigate.services.PunctualityMonitoringServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

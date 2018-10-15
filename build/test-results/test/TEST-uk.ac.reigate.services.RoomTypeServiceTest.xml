@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.RoomTypeServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:37" hostname="CCD102873" time="0.014">
+  <properties/>
+  <testcase name="testSaveNewRoomType" classname="uk.ac.reigate.services.RoomTypeServiceTest" time="0.008"/>
+  <testcase name="testFindRoomTypeById" classname="uk.ac.reigate.services.RoomTypeServiceTest" time="0.001"/>
+  <testcase name="testSaveRoomTypeByFields_WithNullId" classname="uk.ac.reigate.services.RoomTypeServiceTest" time="0.001"/>
+  <testcase name="testSaveRoomTypes" classname="uk.ac.reigate.services.RoomTypeServiceTest" time="0.002"/>
+  <testcase name="testSaveRoomTypeByFields_WithId" classname="uk.ac.reigate.services.RoomTypeServiceTest" time="0.001"/>
+  <testcase name="testSaveRoomType" classname="uk.ac.reigate.services.RoomTypeServiceTest" time="0.001"/>
+  <testcase name="testFindRoomTypes" classname="uk.ac.reigate.services.RoomTypeServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

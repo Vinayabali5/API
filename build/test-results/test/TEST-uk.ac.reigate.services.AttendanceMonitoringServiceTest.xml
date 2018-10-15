@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.AttendanceMonitoringServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:37" hostname="CCD102873" time="0.01">
+  <properties/>
+  <testcase name="testSaveAttendanceMonitorings" classname="uk.ac.reigate.services.AttendanceMonitoringServiceTest" time="0.007"/>
+  <testcase name="testSaveAttendanceMonitoring" classname="uk.ac.reigate.services.AttendanceMonitoringServiceTest" time="0.001"/>
+  <testcase name="testSaveAttendanceMonitoringByFields_WithId" classname="uk.ac.reigate.services.AttendanceMonitoringServiceTest" time="0.001"/>
+  <testcase name="testFindAttendanceMonitorings" classname="uk.ac.reigate.services.AttendanceMonitoringServiceTest" time="0.0"/>
+  <testcase name="testFindAttendanceMonitoring" classname="uk.ac.reigate.services.AttendanceMonitoringServiceTest" time="0.0"/>
+  <testcase name="testSaveNewAttendanceMonitoring" classname="uk.ac.reigate.services.AttendanceMonitoringServiceTest" time="0.0"/>
+  <testcase name="testSaveAttendanceMonitoringByFields_WithNullId" classname="uk.ac.reigate.services.AttendanceMonitoringServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

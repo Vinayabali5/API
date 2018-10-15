@@ -1,0 +1,24 @@
+spring:
+  profiles:
+    include: secured
+  datasource:
+    url: jdbc:sqlserver://CCWSQL02\DEVELOPMENT;databaseName=CID
+    username: Development
+    password: password4Development
+  jpa:
+    show_sql: true
+    hibernate:
+      ddl-auto: validate
+
+ldap:
+  enabled: true
+  url: ldap://10.26.21.5
+  port: 389
+  bindUser: CN=moodleldap,OU=SysApps,OU=Users,OU=CC1-CORE,DC=CC1-CORE,DC=coulsdon,DC=edu
+  bindPassword: M00dl3$%
+  userSearchBase: OU=Users,OU=CC1-CORE,DC=CC1-CORE,DC=coulsdon,DC=edu
+  userSearchFilter: (sAMAccountName={0})
+postcode:
+  lookup: 
+    key: EF56-MD58-YB95-MM43
+    username: COULS11111

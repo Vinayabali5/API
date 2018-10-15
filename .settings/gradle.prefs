@@ -1,0 +1,12 @@
+{
+  "1.0": {
+    "project_path": ":cis-api",
+    "project_dir": "C:\\Development\\Source\\cis\\cis-api",
+    "connection_project_dir": "C:\\Development\\Source\\cis",
+    "connection_gradle_user_home": null,
+    "connection_gradle_distribution": "GRADLE_DISTRIBUTION(WRAPPER)",
+    "connection_java_home": null,
+    "connection_jvm_arguments": "",
+    "connection_arguments": ""
+  }
+}

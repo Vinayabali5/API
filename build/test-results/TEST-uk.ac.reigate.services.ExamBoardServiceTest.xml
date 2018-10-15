@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.ExamBoardServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:11:43" hostname="CCD102873" time="0.019">
+  <properties/>
+  <testcase name="testSaveExamBoards" classname="uk.ac.reigate.services.ExamBoardServiceTest" time="0.011"/>
+  <testcase name="testFindExamBoards" classname="uk.ac.reigate.services.ExamBoardServiceTest" time="0.0"/>
+  <testcase name="testSaveExamBoard" classname="uk.ac.reigate.services.ExamBoardServiceTest" time="0.001"/>
+  <testcase name="testSaveExamBoardByFields_WithId" classname="uk.ac.reigate.services.ExamBoardServiceTest" time="0.004"/>
+  <testcase name="testSaveNewExamBoard" classname="uk.ac.reigate.services.ExamBoardServiceTest" time="0.001"/>
+  <testcase name="testSaveExamBoardByFields_WithNullId" classname="uk.ac.reigate.services.ExamBoardServiceTest" time="0.001"/>
+  <testcase name="testFindExamBoard" classname="uk.ac.reigate.services.ExamBoardServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

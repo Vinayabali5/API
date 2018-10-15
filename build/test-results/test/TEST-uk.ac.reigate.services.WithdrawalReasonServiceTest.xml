@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.WithdrawalReasonServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:37" hostname="CCD102873" time="0.009">
+  <properties/>
+  <testcase name="testSaveWithdrawalReasonByFields_WithNullId" classname="uk.ac.reigate.services.WithdrawalReasonServiceTest" time="0.005"/>
+  <testcase name="testFindWithdrawalReasons" classname="uk.ac.reigate.services.WithdrawalReasonServiceTest" time="0.0"/>
+  <testcase name="testSaveWithdrawalReason" classname="uk.ac.reigate.services.WithdrawalReasonServiceTest" time="0.0"/>
+  <testcase name="testSaveWithdrawalReasonByFields_WithId" classname="uk.ac.reigate.services.WithdrawalReasonServiceTest" time="0.0"/>
+  <testcase name="testSaveNewWithdrawalReason" classname="uk.ac.reigate.services.WithdrawalReasonServiceTest" time="0.0"/>
+  <testcase name="testFindWithdrawalReason" classname="uk.ac.reigate.services.WithdrawalReasonServiceTest" time="0.0"/>
+  <testcase name="testSaveWithdrawalReasons" classname="uk.ac.reigate.services.WithdrawalReasonServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

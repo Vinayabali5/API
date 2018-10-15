@@ -1,0 +1,28 @@
+cid:
+  serviceUser:
+    domainName: {{ DOMAIN NAME HERE }}
+    username: {{ CID SERVICE USERNAME HERE }}
+    password: {{ CID SERVICE PASSWORD HERE }}
+
+spring:
+    profiles: 
+        include: secured, db-defaults
+    datasource:
+        url: jdbc:sqlserver://{{ SQL SERVER HERE }}:1433;databaseName=CID
+        username: {{ SQL USERNAME HERE }}
+        password: {{ SQL PASSWORD HERE }}
+
+ldap:
+  enabled: true
+  url: ldap://{{ LDAP SERVER HERE }} 
+  port: 389
+  bindUser: {{ BIND USER CN HERE }}
+  bindPassword: {{ BIND USER PASSWORD HERE }}
+  userSearchBase: {{ USER SEARCH BASE HERE }}
+  userSearchFilter: (sAMAccountName={0})
+  
+postcode: 
+  lookup:
+    key: {{ POSTCODE ANYWEHERE KEY HERE }}
+    username: {{ POSTCODE ANYWHERE USERNAME HERE }}
+

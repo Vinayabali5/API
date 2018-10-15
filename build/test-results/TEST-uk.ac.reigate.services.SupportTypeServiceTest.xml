@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.SupportTypeServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:11:44" hostname="CCD102873" time="0.017">
+  <properties/>
+  <testcase name="testSaveSupportTypeByFields_WithId" classname="uk.ac.reigate.services.SupportTypeServiceTest" time="0.012"/>
+  <testcase name="testSaveSupportType" classname="uk.ac.reigate.services.SupportTypeServiceTest" time="0.0"/>
+  <testcase name="testFindSupportType" classname="uk.ac.reigate.services.SupportTypeServiceTest" time="0.001"/>
+  <testcase name="testSaveSupportTypes" classname="uk.ac.reigate.services.SupportTypeServiceTest" time="0.002"/>
+  <testcase name="testSaveNewSupportType" classname="uk.ac.reigate.services.SupportTypeServiceTest" time="0.0"/>
+  <testcase name="testFindSupportTypes" classname="uk.ac.reigate.services.SupportTypeServiceTest" time="0.0"/>
+  <testcase name="testSaveSupportTypeByFields_WithNullId" classname="uk.ac.reigate.services.SupportTypeServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

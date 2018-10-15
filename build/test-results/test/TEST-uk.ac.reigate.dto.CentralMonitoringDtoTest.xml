@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.CentralMonitoringDtoTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:35" hostname="CCD102873" time="0.014">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.CentralMonitoringDtoTest" time="0.007"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.CentralMonitoringDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.CentralMonitoringDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.CentralMonitoringDtoTest" time="0.0"/>
+  <testcase name="testConstructor_CentralMonitoring" classname="uk.ac.reigate.dto.CentralMonitoringDtoTest" time="0.001"/>
+  <testcase name="testConstructor_centralMonitoring" classname="uk.ac.reigate.dto.CentralMonitoringDtoTest" time="0.0"/>
+  <testcase name="testMapFromCentralMonitoringEntity" classname="uk.ac.reigate.dto.CentralMonitoringDtoTest" time="0.001"/>
+  <testcase name="testMapToCentralMonitoringEntity" classname="uk.ac.reigate.dto.CentralMonitoringDtoTest" time="0.001"/>
+  <testcase name="testMapFromCentralMonitoringsEntities" classname="uk.ac.reigate.dto.CentralMonitoringDtoTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

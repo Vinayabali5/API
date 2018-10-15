@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.AcademicYearDtoTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:34" hostname="CCD102873" time="0.137">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.AcademicYearDtoTest" time="0.097"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.AcademicYearDtoTest" time="0.004"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.AcademicYearDtoTest" time="0.001"/>
+  <testcase name="testMapFromAcademicYearsEntities" classname="uk.ac.reigate.dto.AcademicYearDtoTest" time="0.027"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.AcademicYearDtoTest" time="0.001"/>
+  <testcase name="testConstructor_academicYear" classname="uk.ac.reigate.dto.AcademicYearDtoTest" time="0.001"/>
+  <testcase name="testConstructor_AcademicYear" classname="uk.ac.reigate.dto.AcademicYearDtoTest" time="0.002"/>
+  <testcase name="testMapToAcademicYearEntity" classname="uk.ac.reigate.dto.AcademicYearDtoTest" time="0.002"/>
+  <testcase name="testMapToEntity" classname="uk.ac.reigate.dto.AcademicYearDtoTest" time="0.001"/>
+  <testcase name="testMapFromAcademicYearEntity" classname="uk.ac.reigate.dto.AcademicYearDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

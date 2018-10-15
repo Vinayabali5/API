@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.ExamBoardDtoTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:11:41" hostname="CCD102873" time="0.013">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.ExamBoardDtoTest" time="0.006"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.ExamBoardDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.ExamBoardDtoTest" time="0.001"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.ExamBoardDtoTest" time="0.0"/>
+  <testcase name="testMapFromExamBoardEntity" classname="uk.ac.reigate.dto.ExamBoardDtoTest" time="0.001"/>
+  <testcase name="testMapToExamBoardEntity" classname="uk.ac.reigate.dto.ExamBoardDtoTest" time="0.0"/>
+  <testcase name="testConstructor_ExamBoard" classname="uk.ac.reigate.dto.ExamBoardDtoTest" time="0.001"/>
+  <testcase name="testMapFromExamBoardsEntities" classname="uk.ac.reigate.dto.ExamBoardDtoTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

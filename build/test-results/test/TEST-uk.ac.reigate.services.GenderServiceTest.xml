@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.GenderServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:37" hostname="CCD102873" time="0.012">
+  <properties/>
+  <testcase name="testSaveNewGender" classname="uk.ac.reigate.services.GenderServiceTest" time="0.007"/>
+  <testcase name="testFindGender" classname="uk.ac.reigate.services.GenderServiceTest" time="0.001"/>
+  <testcase name="testSaveGenderByFields_WithNullId" classname="uk.ac.reigate.services.GenderServiceTest" time="0.001"/>
+  <testcase name="testSaveGenders" classname="uk.ac.reigate.services.GenderServiceTest" time="0.002"/>
+  <testcase name="testSaveGender" classname="uk.ac.reigate.services.GenderServiceTest" time="0.0"/>
+  <testcase name="testFindGenders" classname="uk.ac.reigate.services.GenderServiceTest" time="0.0"/>
+  <testcase name="testSaveGenderByFields_WithId" classname="uk.ac.reigate.services.GenderServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

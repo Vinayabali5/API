@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.RegisteredSessionServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:37" hostname="CCD102873" time="0.008">
+  <properties/>
+  <testcase name="testFindSession" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.006"/>
+  <testcase name="testSaveNewSession" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.001"/>
+  <testcase name="testFindSessionById" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.001"/>
+  <testcase name="testSaveSession" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

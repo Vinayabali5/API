@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.PersonDtoTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:36" hostname="CCD102873" time="0.007">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.PersonDtoTest" time="0.001"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.PersonDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.PersonDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.PersonDtoTest" time="0.002"/>
+  <testcase name="testMapFromPersonEntityTest" classname="uk.ac.reigate.dto.PersonDtoTest" time="0.0"/>
+  <testcase name="testMapToPersonEntityTest" classname="uk.ac.reigate.dto.PersonDtoTest" time="0.001"/>
+  <testcase name="testConstructor_AllFieldsPerson" classname="uk.ac.reigate.dto.PersonDtoTest" time="0.0"/>
+  <testcase name="testMapFromPeopleEntitiesTest" classname="uk.ac.reigate.dto.PersonDtoTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

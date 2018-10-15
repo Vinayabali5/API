@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.CollegeFundPaymentDtoTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:11:41" hostname="CCD102873" time="0.053">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.CollegeFundPaymentDtoTest" time="0.032"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.CollegeFundPaymentDtoTest" time="0.002"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.CollegeFundPaymentDtoTest" time="0.001"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.CollegeFundPaymentDtoTest" time="0.005"/>
+  <testcase name="testConstructor_collegeFundPayment" classname="uk.ac.reigate.dto.CollegeFundPaymentDtoTest" time="0.002"/>
+  <testcase name="testMapFromCollegeFundPaymentsEntities" classname="uk.ac.reigate.dto.CollegeFundPaymentDtoTest" time="0.003"/>
+  <testcase name="testConstructor_CollegeFundPayment" classname="uk.ac.reigate.dto.CollegeFundPaymentDtoTest" time="0.003"/>
+  <testcase name="testMapFromCollegeFundPaymentEntity" classname="uk.ac.reigate.dto.CollegeFundPaymentDtoTest" time="0.003"/>
+  <testcase name="testMapToCollegeFundPaymentEntity" classname="uk.ac.reigate.dto.CollegeFundPaymentDtoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

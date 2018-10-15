@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.LevelServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:37" hostname="CCD102873" time="0.015">
+  <properties/>
+  <testcase name="testSaveNewLevel" classname="uk.ac.reigate.services.LevelServiceTest" time="0.011"/>
+  <testcase name="testFindLevels" classname="uk.ac.reigate.services.LevelServiceTest" time="0.001"/>
+  <testcase name="testSaveLevels" classname="uk.ac.reigate.services.LevelServiceTest" time="0.002"/>
+  <testcase name="testSaveLevel" classname="uk.ac.reigate.services.LevelServiceTest" time="0.0"/>
+  <testcase name="testFindLevel" classname="uk.ac.reigate.services.LevelServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.InitialAssessmentLevelServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:12:37" hostname="CCD102873" time="0.012">
+  <properties/>
+  <testcase name="testSaveInitialAssessmentLevelByFields_WithNullId" classname="uk.ac.reigate.services.InitialAssessmentLevelServiceTest" time="0.008"/>
+  <testcase name="testSaveInitialAssessmentLevelByFields_WithId" classname="uk.ac.reigate.services.InitialAssessmentLevelServiceTest" time="0.001"/>
+  <testcase name="testFindInitialAssessmentLevel" classname="uk.ac.reigate.services.InitialAssessmentLevelServiceTest" time="0.0"/>
+  <testcase name="testSaveInitialAssessmentLevel" classname="uk.ac.reigate.services.InitialAssessmentLevelServiceTest" time="0.001"/>
+  <testcase name="testSaveInitialAssessmentLevels" classname="uk.ac.reigate.services.InitialAssessmentLevelServiceTest" time="0.001"/>
+  <testcase name="testFindInitialAssessmentLevels" classname="uk.ac.reigate.services.InitialAssessmentLevelServiceTest" time="0.0"/>
+  <testcase name="testSaveNewInitialAssessmentLevel" classname="uk.ac.reigate.services.InitialAssessmentLevelServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

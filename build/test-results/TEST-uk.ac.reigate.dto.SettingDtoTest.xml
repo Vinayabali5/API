@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.SettingDtoTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:11:42" hostname="CCD102873" time="0.008">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.SettingDtoTest" time="0.005"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.SettingDtoTest" time="0.0"/>
+  <testcase name="testMapFromSettingEntity" classname="uk.ac.reigate.dto.SettingDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.SettingDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.SettingDtoTest" time="0.0"/>
+  <testcase name="testMapToSettingEntity" classname="uk.ac.reigate.dto.SettingDtoTest" time="0.0"/>
+  <testcase name="testMapFromSettingsEntities" classname="uk.ac.reigate.dto.SettingDtoTest" time="0.002"/>
+  <testcase name="testConstructor_Setting" classname="uk.ac.reigate.dto.SettingDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

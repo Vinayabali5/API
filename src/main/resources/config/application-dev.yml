@@ -1,0 +1,28 @@
+# These are the default setting for the development profile
+
+server: 
+  port: 9001
+  
+spring:
+  pid:
+    file: dev.pid
+
+logging: 
+  level:
+    uk.ac.reigate: INFO
+#    org.springframework: DEBUG
+#    org.springframework.core: DEBUG
+#    org.springframework.core.io: DEBUG
+#    org.springframework.boot: DEBUG
+#    org.springframework.security: DEBUG
+#    org.springframework.security.ldap: DEBUG
+#    org.springframework.security.authentication: DEBUG
+#    org.springframework.ldap: DEBUG
+#    org.springframework.web: DEBUG
+#    org.springframework.context: DEBUG
+#    org.springframework.context.annotation: DEBUG
+#    org.springframework.beans: DEBUG
+#    org.springframework.beans.factory: DEBUG
+#    org.springframework.beans.factory.support: DEBUG
+    
+    

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.BlockServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-08-30T15:11:43" hostname="CCD102873" time="0.013">
+  <properties/>
+  <testcase name="testSaveNewBlock" classname="uk.ac.reigate.services.BlockServiceTest" time="0.008"/>
+  <testcase name="testFindBlocks" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <testcase name="testSaveBlocks" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <testcase name="testSaveBlockByFields_WithNullId" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <testcase name="testSaveBlock" classname="uk.ac.reigate.services.BlockServiceTest" time="0.0"/>
+  <testcase name="testFindBlock" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <testcase name="testSaveBlockByFields_WithId" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

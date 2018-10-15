@@ -1,0 +1,14 @@
+# These are the default setting for the production profile
+
+server: 
+  port: 9009
+
+spring: 
+  profiles: 
+    include: secured
+  pid:
+    file: prod.pid
+
+logging: 
+  level:
+    uk.ac.reigate: INFO
